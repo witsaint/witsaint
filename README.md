@@ -1,11 +1,14 @@
 
-### <div align="center">Hi there 👋 , My name is Gaodingqiang，Engaged in front-end development at Tongcheng Travel</div>  
+### <div align="center">Hi there 👋 , My name is Gaodingqiang，A developer</div>  
   
 
-- 📖 Getting started with open source  
+- 📖 Keep an attachment to learning
   
 
-- 🌱 I’m currently learning Front-end infrastructure  
+- 🌱 Only suitable, no best
   
 
-- 🥥 This will be followed by updates on participating projects, related blogs, and technology stacks  
+- 🥥 Maybe it's a character trait，maybe hobby
+
+
+#### Best wishes to you, myself included
