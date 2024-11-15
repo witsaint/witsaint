@@ -1,5 +1,5 @@
 
-### <div align="center">Hi there 👋 , My name is Gaodingqiang，A developer</div>  
+### <div >Hi there 👋 , My name is Gaodingqiang，A developer</div>  
   
 
 - 📖 Keep an attachment to learning
@@ -11,4 +11,4 @@
 - 🥥 Maybe it's a character trait，maybe hobby
 
 
-#### <div align="center" >Best wishes to you, myself included</div>
+- 🍷 Best wishes to you, myself included
