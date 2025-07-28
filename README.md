@@ -1,5 +1,5 @@
 
-### <div >Hi there 👋 , My name is Gaodingqiang，A developer</div>  
+### <div >Hi there 👋 ，A developer</div>  
   
 
 - 📖 Keep an attachment to learning
