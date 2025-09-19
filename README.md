@@ -1,14 +1,10 @@
 
 ### <div >Hi there 👋 ，A developer</div>  
   
-
-- 📖 Keep an attachment to learning
+- 📖 Lifelong learner & code enthusiast
   
+- 🌱 Good enough > perfect
 
-- 🌱 Only suitable, no best
+- 🥥 Coding by day, thinking by night
   
-
-- 🥥 Maybe it's a character trait，maybe hobby
-
-
-- 🍷 Best wishes to you, myself included
+- 🍷 Cheers to bugs that teach us something
