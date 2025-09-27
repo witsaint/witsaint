@@ -1,6 +1,19 @@
+### <div >Hi there 👋 ，My name is DQ
 
-### <div >Hi there 👋 ，A developer</div>  
-  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Colorful+black+in+progress...)](https://git.io/typing-svg)
+
+<table>
+<tr>
+  <td>
+    
+#### Github Activity
+    
+<img src="https://raw.githubusercontent.com/witsaint/witsaint/refs/heads/output/github-contribution-grid-snake.svg" />
+  </td>
+</tr>
+
+</table>
+
 - 📖 Lifelong learner & code enthusiast
   
 - 🌱 Good enough > perfect
@@ -8,3 +21,4 @@
 - 🥥 Coding by day, thinking by night
   
 - 🍷 Cheers to bugs that teach us something
+
